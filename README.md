@@ -1,4 +1,3 @@
-# Nihao
-# Wachaonima
-* 123
-* 345
+# Nguyễn Minh Trọng
+# 2011068554
+* 20DTHB3
